@@ -144,11 +144,12 @@ ShapeFactory
 ### 클래스 이름
 
 - 클래스 이름과 객체 이름은 명사나 명사구가 적합하다.
-Good | Bad
------|-----
-Customer|Manger
-Account|Processor
-AddressParser|Data
+
+| Good | Bad |
+|:-----:|:-----:|
+|Customer|Manger|
+|Account|Processor|
+|AddressParser|Data|
 
 ### 메소드 이름
 - 메소드 이름은 동사나 동사구가 적합하다. 
